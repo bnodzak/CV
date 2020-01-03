@@ -1,0 +1,11 @@
+h1{
+    color: goldenrod;
+}
+
+hr{
+    border-color: goldenrod;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    width: 7%;
+}
